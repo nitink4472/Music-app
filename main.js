@@ -273,8 +273,7 @@ newname=filename+".webp";
 }
 
 
-</script>
-<script>
+
 	class Node {
 		constructor(song, artist) {
 			this.song = song;
