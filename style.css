@@ -4,6 +4,10 @@
 	{
    	    font-family:"Times New Roman","Helvetica","arial","arial black";
 	}
+	.carousel-item
+	{
+	    width:70%;
+	}
 }
 .grid {
     display: grid;
