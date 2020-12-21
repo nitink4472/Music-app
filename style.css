@@ -1,6 +1,9 @@
-#playlist
+@media screen and (max-width:600px)
 {
-font-family:Segoe Script;	
+	#playlist
+	{
+   	    font-family:"Times New Roman","Helvetica","arial","arial black";
+	}
 }
 .grid {
     display: grid;
