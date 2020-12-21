@@ -1,3 +1,7 @@
+#playlist
+{
+font-family:Segoe Script;	
+}
 .grid {
     display: grid;
     grid-template-columns: 30% 70%;
